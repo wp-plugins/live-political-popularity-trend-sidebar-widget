@@ -1,4 +1,4 @@
-=== Live Political Popularity Trend Widget ===
+=== Live Political Popularity Comparison Chart Generator Widget ===
 
 Contributors: personalmoneystore, Director of Personal Money Store: David Johnston
 Donate link:  If you like this plugin and would like to donate, the best donation we could ask for at this time is your positive comments! 
@@ -10,7 +10,11 @@ Stable tag:  1.0
 A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 politicians that admin inserted as default or that user selects
 
 == Description ==
-Live Political Popularity Trend sidebar widget is a graph that dynamically updates and provides the latest information on 1 or compares 2 politicians. User selects politicians as well as the option to select country and years of the stats. Admin has the ability to insert default politicians' names.
+Compare politicians in a side by side contest where Google's search statistics show who is more popular. Not many people know that Google tracks what people are searching for and the volume of those searches. 
+It is easy to compare politicians in a visual way with this graph generator and see who is more popular without resorting to votes. 
+You will be pretty shocked at who is more popular then who, besides being thoroughly entertained. 
+This tool will be something your political audience will appreciate using and playing around with. 
+Install it and see your web site's interaction sky rocket!
 
 == Installation ==
 1. Upload `wp-ppw.php` to the `/wp-content/plugins/` directory
