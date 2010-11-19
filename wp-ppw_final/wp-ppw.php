@@ -5,12 +5,17 @@
 /*
 
 
-Plugin Name: Live Political Popularity Trend Widget
+Plugin Name: Live Political Popularity Comparison Chart Generator Widget
 
 Version: 1.0
 
 
-Description: Add fun and interest to your sidebar by installing this political popularity graph creator. You add 2 politicians' names and a dynamically created graph compares the politicians' popularity with live trend data from Google.The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
+Description:Compare politicians in a side by side contest where Google's search statistics show who is more popular. 
+Not many people know that Google tracks what people are searching for and the volume of those searches. 
+It is easy to compare politicians in a visual way with this graph generator and see who is more popular without resorting to votes. 
+You will be pretty shocked at who is more popular then who, besides being thoroughly entertained. 
+This tool will be something your political audience will appreciate using and playing around with. 
+Install it and see your web site's interaction sky rocket!
 
 Author: Director of Personal Money Store: David Johnston
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
