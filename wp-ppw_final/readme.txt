@@ -27,7 +27,7 @@ Install it and see your web site's interaction sky rocket!
 Nothing yet.
 == Frequently Asked Questions ==
 Can I make a suggestion for this plugin?
-Of course, please visit our Politician Popularity Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/ and leave a suggestion under, "Post a new comment."
+Of course, please visit our Politician Popularity Widget page http://personalmoneystore.com/moneyblog/live-political-popularity-comparison-chart-generator-widget/ and leave a suggestion under, "Post a new comment."
 == Upgrade Notice ==
 Nothing yet.
 == Screenshots ==
