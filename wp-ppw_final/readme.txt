@@ -33,17 +33,7 @@ Of course, please visit our Politician Popularity Widget page http://personalmon
 the screenshoot.
 == Screenshots ==
 1. Screenshot of widget.
-<html>
- <head>
-  <title> </title>
-</head>
-    <body>
-      <img class="alignright size-medium wp-image-87605" title="Live Political Popularity Comparison Chart Generator Widget screenshot" 
-src="http://personalmoneystore.com/wp-content/uploads/2010/11/screenshoot-2.jpg" alt="Live Political Popularity Comparison Chart Generator Widget screenshot" width="225" height="400" />
-      <img src:" ">
-    </body>
- 
-</html>
+http://personalmoneystore.com/wp-content/uploads/2010/11/screenshoot-2.jpg
 == Credits ==
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
 == License ==
