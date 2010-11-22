@@ -7,7 +7,7 @@
 
 Plugin Name: Live Political Popularity Comparison Chart Generator Widget
 
-Version: 1.0
+Version: 1.0.1
 
 
 Description:Compare politicians in a side by side contest where Google's search statistics show who is more popular. 
@@ -19,7 +19,8 @@ Install it and see your web site's interaction sky rocket!
 
 Author: Director of Personal Money Store: David Johnston
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
-Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/
+Plugin URI: http://personalmoneystore.com/moneyblog/live-political-popularity-comparison-chart-generator-widget
+
 
 */
 

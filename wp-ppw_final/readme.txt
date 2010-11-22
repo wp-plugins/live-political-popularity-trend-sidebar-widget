@@ -23,13 +23,13 @@ Install it and see your web site's interaction sky rocket!
 4. Open "WP Political Popularity Widget" in sidebar and fill in the title, the first politician's name and the second politician's name.
 5. Save and close sidebar widget.
 == Changelog ==
-
-Nothing yet.
+For this version 1.0.1, we have changed to location where the plugin zipfile is being hosted.
 == Frequently Asked Questions ==
 Can I make a suggestion for this plugin?
 Of course, please visit our Politician Popularity Widget page http://personalmoneystore.com/moneyblog/live-political-popularity-comparison-chart-generator-widget/ and leave a suggestion under, "Post a new comment."
 == Upgrade Notice ==
-Nothing yet.
+ 11/20/2010 - released Live Political Popularity Comparison Chart Generator Widget Verison 1.0.1.  We have changed 
+the screenshoot.
 == Screenshots ==
 1. Screenshot of widget.
 == Credits ==
