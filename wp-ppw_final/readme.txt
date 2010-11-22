@@ -4,7 +4,7 @@ Contributors: personalmoneystore, Director of Personal Money Store: David Johnst
 Donate link:  If you like this plugin and would like to donate, the best donation we could ask for at this time is your positive comments! 
 Tags: compare politicians, political popularity trends, political popularity graph, political popularity chart, political popularity checker, live politics, politics, political widget, politics widget, political plugin, political wordpress widget, politics wordpress widget, political wordpress plugin, politics wordpress plugin, widget, plugin, wordpress widget, wordpress sidebar widget, wordpress plugin, 
 Requires at least: 2.9.2
-Tested up to: 3.0.1
+Tested up to: 3.9.1
 Stable tag:  1.0
 
 A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 politicians that admin inserted as default or that user selects
