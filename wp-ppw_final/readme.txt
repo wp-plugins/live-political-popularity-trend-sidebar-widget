@@ -32,7 +32,7 @@ Of course, please visit our Politician Popularity Widget page http://personalmon
  11/20/2010 - released Live Political Popularity Comparison Chart Generator Widget Verison 1.0.1.  We have changed 
 the screenshoot.
 == Screenshots ==
-1. Screenshot of widget.
+1. Screenshot of widget. Remember it might render differently dependin on your wordpress theme.
 
 == Credits ==
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
