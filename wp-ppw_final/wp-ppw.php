@@ -19,7 +19,7 @@ Install it and see your web site's interaction sky rocket!
 
 Author: Director of Personal Money Store: David Johnston
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
-Plugin URI: http://personalmoneystore.com/wp-content/uploads/2010/11/wp-ppw_final.zip
+Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/
 
 */
 
