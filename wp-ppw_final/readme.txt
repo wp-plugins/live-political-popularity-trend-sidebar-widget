@@ -27,7 +27,7 @@ For this version 1.0.1, we have changed location where the plugin zipfile is bei
 Also added the screenshot image to the wordpress plugin directory.
 == Frequently Asked Questions ==
 Can I make a suggestion for this plugin?
-Of course, please visit our Politician Popularity Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgetspolitician-popularity-widget/ and leave a suggestion under, "Post a new comment."
+Of course, please visit our Politician Popularity Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/ and leave a suggestion under, "Post a new comment."
 == Upgrade Notice ==
  11/20/2010 - released Live Political Popularity Comparison Chart Generator Widget Verison 1.0.1.  We have changed 
 the screenshoot.
