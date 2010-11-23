@@ -33,7 +33,7 @@ Of course, please visit our Politician Popularity Widget page http://personalmon
 the screenshoot.
 == Screenshots ==
 1. Screenshot of widget.
-http://magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-2.jpg
+http://www.magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-2.jpg
 == Credits ==
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
 == License ==
