@@ -1,26 +1,18 @@
 <?php
 /*
-
-
 Plugin Name: Live Political Popularity Comparison Chart Generator Widget
-
-Version: 1.0.1
-
-
+Version: 1.0
 Description:Compare politicians in a side by side contest where Google's search statistics show who is more popular. 
 Not many people know that Google tracks what people are searching for and the volume of those searches. 
 It is easy to compare politicians in a visual way with this graph generator and see who is more popular without resorting to votes. 
 You will be pretty shocked at who is more popular then who, besides being thoroughly entertained. 
 This tool will be something your political audience will appreciate using and playing around with. 
-Install it and see your web site's interaction sky rocket!
-
+Install it and see your web site's interaction sky rocket!
 Author: Director of Personal Money Store: David Johnston
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
 Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/politician-popularity-widget/
 
 */
-
-
   /*
    Copyright 2010  Director of Personal Money Store: David Johnston  (email : webmaster@personalmoneystore.com)
    The image is compiled by Google and this gadget author has no control over what is displayed or the accuracy of it.
@@ -45,7 +37,6 @@ Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widget
   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
    */
-
 
 global $wp_version;
 
@@ -146,14 +137,10 @@ add_action('wp_print_scripts', 'WPPpw_ScriptsAction');
 function WPPpw_ScriptsAction()
 
 {
-
 	if (!is_admin()) {
 	global $wp_ppw_plugin_url;
 	wp_enqueue_script('jquery');
 	wp_enqueue_script('jquery-form');
 	wp_enqueue_script('wp_ppw_script', $wp_ppw_plugin_url . '/wp-ppw.js', array('jquery', 'jquery-form'));
 	}
-
-}
-
-?>
+}?>
