@@ -1,6 +1,6 @@
 === Live Political Popularity Comparison Chart Generator Widget ===
 
-Contributors: personalmoneystore, Director of Personal Money Store: David Johnston
+Contributor: personalmoneystore, Director of Personal Money Store: David Johnston
 Donate link:  If you like this plugin and would like to donate, the best donation we could ask for at this time is your positive comments! 
 Tags: compare politicians, political popularity trends, political popularity graph, political popularity chart, political popularity checker, live politics, politics, political widget, politics widget, political plugin, political wordpress widget, politics wordpress widget, political wordpress plugin, politics wordpress plugin, widget, plugin, wordpress widget, wordpress sidebar widget, wordpress plugin, 
 Requires at least: 2.9.2
